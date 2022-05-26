@@ -1,0 +1,5 @@
+/mnt/c/projects/timp/lab03/hello_world_application/_build/CMakeFiles/formatter_lib.dir
+/mnt/c/projects/timp/lab03/hello_world_application/_build/CMakeFiles/formatter_ex_lib.dir
+/mnt/c/projects/timp/lab03/hello_world_application/_build/CMakeFiles/lab03.dir
+/mnt/c/projects/timp/lab03/hello_world_application/_build/CMakeFiles/edit_cache.dir
+/mnt/c/projects/timp/lab03/hello_world_application/_build/CMakeFiles/rebuild_cache.dir
