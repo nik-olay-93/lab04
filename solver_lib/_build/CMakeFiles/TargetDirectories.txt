@@ -1,0 +1,3 @@
+/mnt/c/projects/timp/lab03/solver_lib/_build/CMakeFiles/formatter.dir
+/mnt/c/projects/timp/lab03/solver_lib/_build/CMakeFiles/edit_cache.dir
+/mnt/c/projects/timp/lab03/solver_lib/_build/CMakeFiles/rebuild_cache.dir
